@@ -7,5 +7,5 @@ import Things from "./Things";
 
 export const routes = [
   { pathname: "/", title: "Home", component: Home},
-  { pathname: "/things", title: "Things", component: Things},
+  // { pathname: "/things", title: "Things", component: Things},
 ];

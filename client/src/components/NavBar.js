@@ -45,7 +45,7 @@ const NavBar = (props) => {
     return (
     <Menu>
     {renderRoutes()}
-    <Menu.Menu position="right">{RightNavItems() }</Menu.Menu>
+    {/* <Menu.Menu position="right">{RightNavItems() }</Menu.Menu> */}
     </Menu>
     )
 }
