@@ -18,7 +18,7 @@ const renderRoutes = () => {
 
 const Footer = () => {
   return(
-  <div className="footer" style={{textAlign: 'center', textDecoration: 'none'}}>
+  <div className="footer" style={{textAlign: 'center', textDecoration: 'none', color: 'black'}}>
     <Link to="/resources">Resources</Link>
   </div>
   )
