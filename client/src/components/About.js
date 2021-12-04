@@ -4,6 +4,7 @@ import { Image } from 'semantic-ui-react';
 const About = () => {
   return (
     <>
+    <img src='./MEbackground.JPG' alt='cassidy' style={{width: '200px', height: '200px' }}/>
     <div>
       <p style={styles.paragraph}>
           As a straight, white, female growing up on the east side of Salt Lake City, I am very fortunate and grateful for the learning environment I’ve grown so accustomed to. The members of my family are all well-educated individuals and are the best support system I could ask for. All in all, the resources available to me have played a huge role in my education today and will continue to help me in the future. 
