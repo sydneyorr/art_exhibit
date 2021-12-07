@@ -1,5 +1,5 @@
 import '../App.css'
-import React, { useState } from "react";
+import React from "react";
 import GoodArt from './GoodArt.jpg'
 import { Image } from 'semantic-ui-react';
 

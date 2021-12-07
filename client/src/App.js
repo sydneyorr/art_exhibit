@@ -1,12 +1,10 @@
 import "./App.css";
-import { Container, List } from "semantic-ui-react";
+import { Container } from "semantic-ui-react";
 import { Route, Switch } from "react-router";
 import { routes } from "./components/routes";
 import NavBar from "./components/NavBar.js";
 import NoMatch from "./components/NoMatch";
-import Register from "./components/Register";
 import Login from "./components/Login";
-import Home from "./components/Home";
 import Resources from "./components/Resources";
 import { Link } from "react-router-dom";
 function App() {
